@@ -5,6 +5,3 @@
 [submodule "cbass"]
 	path = cbass
 	url = https://github.com/cran/cbass
-[submodule "netregR"]
-	path = netregR
-	url = https://github.com/cran/netregR
